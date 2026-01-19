@@ -1,4 +1,4 @@
-<h1 align="center">Names Luis (Lee)</h1>
+<h1 align="center">Names Luis</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - Hi, I'm **PDB**
